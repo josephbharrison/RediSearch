@@ -47,8 +47,8 @@ RUN TEST='' make test COORD=oss PLATFORM_MODE=1 QUICK=1
 {% endif %}
 
 #----------------------------------------------------------------------------------------------
-FROM redisfab/rejson:{{REJSON_VERSION}}-{{ARCH}}-{{OSNICK}} AS json
-FROM redisfab/redis:{{REDIS_VERSION}}-{{ARCH}}-{{OSNICK}}
+FROM redisfab/rejson:{{REJSON_VERSION}}-arm64-{{OSNICK}} AS json
+FROM redisfab/redis:{{REDIS_VERSION}}-arm64-{{OSNICK}}
 
 WORKDIR /data
 

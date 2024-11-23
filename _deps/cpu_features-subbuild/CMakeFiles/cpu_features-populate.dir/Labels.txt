@@ -1,0 +1,14 @@
+# Target labels
+ cpu_features-populate
+# Source files and their labels
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate-complete.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-build.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-configure.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-download.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-install.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-mkdir.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-patch.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-test.rule
+/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-update.rule

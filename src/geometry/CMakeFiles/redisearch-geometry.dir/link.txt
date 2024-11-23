@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libredisearch-geometry.a "CMakeFiles/redisearch-geometry.dir/geometry_api.cpp.o" "CMakeFiles/redisearch-geometry.dir/query_iterator.cpp.o" "CMakeFiles/redisearch-geometry.dir/rtree.cpp.o"
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libredisearch-geometry.a

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/CMakeFiles/cpu_features-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-build.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-download.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-install.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-test.rule"
+		},
+		{
+			"file" : "/Users/work/code/RediSearch/_deps/cpu_features-subbuild/cpu_features-populate-prefix/src/cpu_features-populate-stamp/cpu_features-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpu_features-populate"
+		],
+		"name" : "cpu_features-populate"
+	}
+}

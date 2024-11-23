@@ -14,3 +14,8 @@
 /deps/RedisJSON/
 /tests/pytests/logs/
 /1/
+CMakeFiles/
+_deps/
+hiredis/
+*.cmake
+CMakeCache.txt

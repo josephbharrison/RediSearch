@@ -29,7 +29,7 @@ update_profile() {
 }
 
 [[ -f ~/.bash_profile ]] && update_profile ~/.bash_profile
-[[ -f ~/.zshrc ]] && update_profile ~/.zshrc
+# [[ -f ~/.zshrc ]] && update_profile ~/.zshrc
 
 source install_cmake.sh
 source install_boost.sh $BOOST_VERSION
