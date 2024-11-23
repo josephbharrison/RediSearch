@@ -36,9 +36,9 @@ RUN /usr/src/RediSearch/.install/install_script.sh
 # Build RedisSearch
 RUN make
 
-# # Copy the compiled RedisSearch module to an output directory
-# RUN mkdir -p /output && \
-#     cp bin/linux-x64-release/search-community/redisearch.so /output/
+# Copy the compiled RedisSearch module to an output directory
+RUN mkdir -p /output && \
+    cp bin/linux-arm64v8-release/search-community/redisearch.so /output/
 
 # Define an entrypoint to keep the container running after build
 CMD ["sleep", "86400"]
