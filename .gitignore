@@ -27,3 +27,9 @@ callgrind.out.*
 /deps/RedisJSON/
 /1/
 /.install/boost*
+
+CMakeFiles/
+_deps/
+hiredis/
+*.cmake
+CMakeCache.txt
